@@ -1,0 +1,2 @@
+Today's delivery: c, a, e, g, o, k, n
+Tomorrow's delivery: b, d, f, i, h, j, l, m

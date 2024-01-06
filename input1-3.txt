@@ -1,0 +1,20 @@
+15 18
+a^b
+b^c
+b^e
+c^d
+d^e
+e^f
+d^g
+e^i
+g^h
+h^i
+g^j
+j^k
+k^l
+i^o
+o^l
+k^m
+m^n
+l^n
+c
